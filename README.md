@@ -1,4 +1,4 @@
->>># `Python - AirBnB `  :dart:
+>>>>>>>>># Python - AirBnB   :dart:
 
 ### Creation of a command interpreter in Python using the cmd module, in order to manage the Back-End part
 ## **What's a command interpreter?**
